@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="InfoGenerator">
+      <HintPath>..\..\..\..\..\..\Desktop\arenafighterassignment\InfoGenerator.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
