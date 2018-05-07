@@ -1,5 +1,4 @@
 # ArenaFighter.cs
-Arena Fighter Game
 Arena Fighter is a simple game, based on dice rolls. In this game, the player creates a character, and proceeds to fight randomly
 generated opponents until the player character loses, in which case the game should end. At every victory, the player should be offered
 the chance to retire his character, which should also end the game.
